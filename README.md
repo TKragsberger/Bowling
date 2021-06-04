@@ -18,6 +18,8 @@ The result will be displayed in the browser
 
 To run the program localhost run this command
 * ./gradlew bootRun
+
+### Executing tests
 To run a the unit test run this command
 * ./gradlew clean check
 
