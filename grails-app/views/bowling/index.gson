@@ -1,0 +1,15 @@
+import io.micronaut.http.HttpStatus
+
+model {
+    HttpStatus httpStatus
+    String succes
+    String token
+    List<Integer> input
+}
+
+response.status httpStatus
+
+json {
+    "success" succes
+    "input" input
+}
