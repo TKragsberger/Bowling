@@ -21,13 +21,6 @@ To run the program localhost run this command
 To run a the unit test run this command
 * ./gradlew clean check
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
