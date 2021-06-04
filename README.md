@@ -1,5 +1,7 @@
 # Bowling
 
+This project is coded with grails
+
 ## Description
 
 This simple program is calculating points scored in a bowling game based of a list of rounds given from a REST endpoint.
@@ -17,7 +19,9 @@ The result will be displayed in the browser
 ### Executing program
 
 To run the program localhost run this command
-* ./gradlew bootRun
+1. ./gradlew bootRun
+2. open your browser
+3. navigate to localhost:8080/bowling
 
 ### Executing tests
 To run a the unit test run this command
