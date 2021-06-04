@@ -1,6 +1,6 @@
 # Bowling
 
-This project is coded with grails
+A rest API using [Grails](https://docs.grails.org/5.0.0.M1/guide/single.html) web framework
 
 ## Description
 
