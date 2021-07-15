@@ -6,7 +6,7 @@ A rest API using [Grails](https://docs.grails.org/5.0.0.M1/guide/single.html) we
 
 This simple program is calculating points scored in a bowling game based of a list of rounds given from a REST endpoint.
 When the gamePoints have been calculated a second REST Post endpoint will be called containing a JSON payload which contains the game results and a token given from when the first REST endpoint. 
-The result will be displayed in the browser
+The result will be displayed in the browser.
 
 ## Getting Started
 
